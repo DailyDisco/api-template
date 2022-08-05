@@ -1,5 +1,9 @@
 //Example fetch using pokemonapi.com
+// used for practicing API's
+<<<<<<<<< Temporary merge branch 1
+=========
 // Language: javascript
+>>>>>>>>> Temporary merge branch 2
 
 document.querySelector('button').addEventListener('click', getFetch)
 document.querySelector('button').addEventListener('click', data.name)
