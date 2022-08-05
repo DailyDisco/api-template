@@ -1,4 +1,5 @@
 //Example fetch using pokemonapi.co
+
 document.querySelector('button').addEventListener('click', getFetch)
 document.querySelector('button').addEventListener('click', data.name)
 
